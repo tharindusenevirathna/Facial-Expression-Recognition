@@ -23,6 +23,7 @@ The task is to classify facial images into one of the following emotion classes:
 ## Dataset
 
 - **FER Dataset**: The model is trained on the Facial Expression Recognition (FER) dataset, which contains grayscale images of human faces, each labeled with one of the seven emotion classes.
+- : dataset : kaggle/input/face-expression-recognition-dataset/images/train
 
 ### Dataset Preparation
 1. **Data Loading**: The FER dataset is loaded in CSV format, where each image is represented by pixel values in a single string, accompanied by its corresponding label.
